@@ -23,5 +23,6 @@ public class Phrase {
 		
 		String phrase = wordListOne[rand1] + " " + wordListTwo[rand2] + " " + wordListThree[rand3];
 		System.out.println("Всё, что вам нужно, - это " + phrase);
+		System.out.println("You can replace the vocabulary and customize this phrase generator however you want!   :D");
 	}
 }
